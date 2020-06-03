@@ -34,7 +34,11 @@ npm run serve
 | textStyle    | object  | {}     | 刻度线文本样式                 |
 | valueStyle   | object  | {}     | 刻度条值的样式                 |
 
+> 本插件是根据react插件作者改编而来，下方为react版本
+
 ## react版本
+
+
 
 ````
 https://github.com/MrXujiang/ticker.git
